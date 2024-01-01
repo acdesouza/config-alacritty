@@ -10,3 +10,7 @@
 
   Given Alacritty didn't implement tabs, neither has any plan to do it, I don't need to worry about space for the list of tabs.
   It should start maximized to use the whole screen space. I only need a little space to avoid the feeling the app size is beyond the visible screen.
+
+  I tried to replicate the default MacOS Terminal "clear screen and empty terminal history". But, the closest I got was ~Cmd + k~ twice. One for ~clear screen~ and one for ~clear history~.
+
+  I'll [[https://ansidev.xyz/posts/2023-04-16-how-to-solve-alt-key-binding-issue-on-macos][use Option as ALT to allow Vim and Tmux keybidings using Alt]]

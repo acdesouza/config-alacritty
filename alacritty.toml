@@ -18,3 +18,11 @@ decorations     = "None"
 padding         = { x = 5, y = 2 }
 dynamic_padding = true
 startup_mode    = "Maximized"
+
+option_as_alt   = "Both"
+
+[keyboard]
+bindings = [
+  { key = "K", mods = "Command", chars  = "\u000c"       },
+  { key = "K", mods = "Command", action = "ClearHistory" }
+]
