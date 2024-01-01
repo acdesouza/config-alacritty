@@ -3,3 +3,5 @@
   My reason to use Alacritty is to have a Terminal Emulator capable of True Color, so I can use Vim with all the glorious colors of [[https://github.com/catppuccin][Catppuccin Theme]].
 
   Use [[https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/FiraMono.zip][FiraMono Nerd Font]] to have nice Terminal Icons.
+
+  I like the behavior of automatically copying the selection to clipboard.
