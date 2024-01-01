@@ -1,0 +1,3 @@
+* Alacritty
+
+  My reason to use Alacritty is to have a Terminal Emulator capable of True Color, so I can use Vim with all the glorious colors of [[https://github.com/catppuccin][Catppuccin Theme]].

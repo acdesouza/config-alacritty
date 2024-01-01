@@ -1,0 +1,3 @@
+import = [
+  "~/.config/alacritty/colorschemes/catppuccin-mocha.toml"
+]
