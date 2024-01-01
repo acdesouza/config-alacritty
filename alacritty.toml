@@ -8,3 +8,7 @@ size   = 14
 
 [selection]
 save_to_clipboard = true
+
+[bell]
+animation = 'EaseOut'
+duration  = 50
