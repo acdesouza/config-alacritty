@@ -1,3 +1,7 @@
 import = [
   "~/.config/alacritty/colorschemes/catppuccin-mocha.toml"
 ]
+
+[font]
+normal = { family = "FiraMono Nerd Font Propo" }
+size   = 14
