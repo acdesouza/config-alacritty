@@ -7,3 +7,6 @@
   I like the behavior of automatically copying the selection to clipboard.
 
   I prefer to have a visual alert instead sound one. So, I don't need phones all the time. And I don't wake up the kids ;)
+
+  Given Alacritty didn't implement tabs, neither has any plan to do it, I don't need to worry about space for the list of tabs.
+  It should start maximized to use the whole screen space. I only need a little space to avoid the feeling the app size is beyond the visible screen.
